@@ -9,4 +9,4 @@
 ***Targeted for .Net Framework: 4.8***
 
 # Sample of how to use
-[Alt text](sample.png?raw=true)
+sample.png?raw=true
